@@ -10,3 +10,5 @@ This uses the bodyPix person body part segmentation to predict where the 24 body
 * React
 * Javascript
 * HTML / CSS
+
+![](https://github.com/edmondthui/body-segmentation/blob/master/public/example.png)
